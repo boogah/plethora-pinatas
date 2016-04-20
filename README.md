@@ -6,7 +6,7 @@ When the dummy data that WooCommerce ships with isn't enough, feel free to deplo
 
 ![](http://img.boogah.org/drop/pinatas.gif)
 
-With...
+Includes:
 
 - 300 products
 - 910 orders
@@ -19,6 +19,8 @@ With...
 ### Requirements
 
 A site running [WooCommerce](https://www.woothemes.com/woocommerce/).
+
+### Instructions
 
 1. Import `a-plethora-of-pinatas.xml` via [WP-CLI](http://wp-cli.org/commands/import/) or the [WordPress Importer](https://wordpress.org/plugins/wordpress-importer/).
 
